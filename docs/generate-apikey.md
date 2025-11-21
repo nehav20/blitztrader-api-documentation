@@ -10,7 +10,7 @@ This guide will walk you through:
 
 ---
 
-## 🛠 API Key Generation Page
+## API Key Generation Page
 
 After logging in, navigate to the **API Management** section. You'll find an option to **Create New API Key**.
 
@@ -18,7 +18,7 @@ Here’s a screenshot of the **API Key Management Interface**:
 
 ![API Key Management Interface](assets/api-key-management.png)
 
-### Fields on the API Key Creation Form
+### Fields Discriptions
 
 - **App Name** – Enter a name for the app you're integrating.  
 - **Client ID** – Provide a unique client identifier.  
@@ -36,7 +36,7 @@ Here’s a screenshot of the **API Key Management Interface**:
 4. Click **Create API Key**.  
 5. The new API key will be displayed. **Copy and store it securely** — you won’t be able to view it again.
 
-### Screenshot: Generated API Key
+### Generated API Key
 
 ![Generated API Key](assets/generated-api-key.png)
 

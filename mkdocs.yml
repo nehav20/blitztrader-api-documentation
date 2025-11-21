@@ -1,12 +1,14 @@
 site_name: BlitzTrader/API Documentation
+site_url: https://NehaV20.github.io/BlitzTrader-API-Documentation/
+use_directory_urls: false
 
 theme:
   name: material
-  logo: assets/icon.png         
+  logo: assets/icon.png
   favicon: assets/favicon.ico
   features:
-    - navigation.sections   
-    - navigation.expand    
+    - navigation.sections
+    - navigation.expand
 
 nav:
   - Introduction: 0.Welcome.md
@@ -16,11 +18,16 @@ nav:
   - API Keys:
       - API Key Guide: 3.api-key-guide.md
       - Generate API Key: generate-apikey.md
-  - Dashboard: dashbord.md
+  - Dashboard: dashboard.md
 
 extra_css:
-  - css/custom.css          
+  - css/custom.css
 
 extra_javascript:
   - js/logo-link.js
 
+markdown_extensions:
+  - admonition         
+  - pymdownx.superfences 
+  - pymdownx.details    
+  - pymdownx.extra
