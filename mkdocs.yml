@@ -1,0 +1,26 @@
+site_name: BlitzTrader/API Documentation
+
+theme:
+  name: material
+  logo: assets/icon.png         
+  favicon: assets/favicon.ico
+  features:
+    - navigation.sections   
+    - navigation.expand    
+
+nav:
+  - Introduction: 0.Welcome.md
+  - User Setup:
+      - Create Account: 1.create-account.md
+      - Forgot Password: 2.forgot-password.md
+  - API Keys:
+      - API Key Guide: 3.api-key-guide.md
+      - Generate API Key: generate-apikey.md
+  - Dashboard: dashbord.md
+
+extra_css:
+  - css/custom.css          
+
+extra_javascript:
+  - js/logo-link.js
+
