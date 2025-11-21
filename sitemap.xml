@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://NehaV20.github.io/BlitzTrader-API-Documentation/0.Welcome.html</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://NehaV20.github.io/BlitzTrader-API-Documentation/1.create-account.html</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://NehaV20.github.io/BlitzTrader-API-Documentation/2.forgot-password.html</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://NehaV20.github.io/BlitzTrader-API-Documentation/3.api-key-guide.html</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://NehaV20.github.io/BlitzTrader-API-Documentation/dashboard.html</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+    <url>
+         <loc>https://NehaV20.github.io/BlitzTrader-API-Documentation/generate-apikey.html</loc>
+         <lastmod>2025-11-21</lastmod>
+    </url>
+</urlset>
